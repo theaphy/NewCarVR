@@ -18,4 +18,6 @@ public class LevelUp : MonoBehaviour {
 		SceneManager.LoadScene ("Level" + namer.ToString());
 
 	}
+
+
 }
